@@ -1,5 +1,8 @@
 # Network Packet Sniffer
 
+Based on my old tcpdump : [Original Repository](https://github.com/idanless/tcpdump-windows-10)
+
+
 ![PORTABLE](https://img.shields.io/badge/PORTABLE-green) ![13MB](https://img.shields.io/badge/SIZE-13MB-blue) ![WINDOWS](https://img.shields.io/badge/PLATFORM-WINDOWS-purple)
 
 A network traffic analyzer that captures and displays packets in real-time. It's basically tcpdump for Windows but with a visual interface. Small, portable, and doesn't need installation - just 13MB total.
