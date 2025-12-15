@@ -48,7 +48,7 @@ You also need the WinDivert driver. Put `WinDivert64.dll` (or `WinDivert.dll` fo
 Run with administrator privileges:
 
 ```bash
-python sniffer.py
+python wintcpdump.py
 ```
 
 ### Interface Controls
