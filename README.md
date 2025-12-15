@@ -111,7 +111,6 @@ Good for network admins who need a diagnostic tool they can carry around.
 | Size | Around 1MB | Around 13MB |
 | Filtering | Command line arguments | Visual dropdown menus |
 | Output | PCAP files | Live view plus PCAP files |
-| Learning curve | Steep | Gentle |
 
 ## Important notes
 
