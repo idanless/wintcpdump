@@ -132,9 +132,7 @@ Good for network admins who need a diagnostic tool they can carry around.
 
 **Running slow:** Reduce your filter scope or turn off PCAP saving for better speed.
 
-## Credits
 
-Created by Idan Less
 
 ## License
 
