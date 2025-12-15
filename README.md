@@ -5,7 +5,6 @@
 A network traffic analyzer that captures and displays packets in real-time. It's basically tcpdump for Windows but with a visual interface. Small, portable, and doesn't need installation - just 13MB total.
 
 ![Screenshot](screenshot.png)
-*Replace screenshot.png with your actual screenshot file*
 
 ## What it does
 
