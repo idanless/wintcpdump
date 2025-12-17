@@ -1,6 +1,7 @@
 # Network Packet Sniffer
 
 Based on my old tcpdump : [tcpdump-windows-10](https://github.com/idanless/tcpdump-windows-10)
+Download Py2Exe as single file :[singlefile Py2exe] (https://github.com/idanless/wintcpdump/releases/download/network/wintcpdump.zip) #download and run
 
 
 ![PORTABLE](https://img.shields.io/badge/PORTABLE-green) ![13MB](https://img.shields.io/badge/SIZE-13MB-blue) ![WINDOWS](https://img.shields.io/badge/PLATFORM-WINDOWS-purple)
